@@ -1,4 +1,4 @@
-all: build down migrate up
+all: build down up
 
 pull:
 	docker-compose pull
